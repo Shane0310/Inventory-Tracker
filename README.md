@@ -41,4 +41,4 @@
   <img src="assets/images/screenshot/profile.jpg">
 
 # Screen Demo 
-<a href="[https://youtu.be/iVVLdxab0f8](https://youtu.be/iVVLdxab0f8)">
+[Demo Screen for Inventory Tracker](https://youtu.be/iVVLdxab0f8)
