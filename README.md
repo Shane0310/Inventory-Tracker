@@ -28,4 +28,14 @@
 <img src="assets/images/screenshot/login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+* Home Screen
+<img src="assets/images/screenshot/home.jpg">
+
+* Inventory Screen
+<img src="assets/images/screenshot/inventory.jpg">
+
+* Report
+<img src="assets/images/screenshot/reports.png">
+
+* Profile
+<img src="assets/images/screenshot/profile.png">
