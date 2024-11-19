@@ -28,14 +28,18 @@
 <img src="assets/images/screenshot/login.jpg">  
 
 # Tabs Screen
-* Home Screen
+
+# Home Screen
 <img src="assets/images/screenshot/home.jpg">
 
-* Inventory Screen
+# Inventory Screen
 <img src="assets/images/screenshot/inventory.jpg">
 
-* Report
-<img src="assets/images/screenshot/reports.png">
+# Report
+<img src="assets/images/screenshot/reports.jpg">
 
-* Profile
-<img src="assets/images/screenshot/profile.png">
+# Profile
+<img src="assets/images/screenshot/profile.jpg">
+
+# Screen Demo 
+<a href="https://youtu.be/iVVLdxab0f8"></a>
